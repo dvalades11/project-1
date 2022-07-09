@@ -1,0 +1,16 @@
+h1, h2, h3, h4 {
+    font-family: fantasy;
+    color: cornflowerblue;
+    margin: 0;
+}
+
+hr {
+    margin: 0;
+    margin-bottom: 32px;
+}
+
+.top-section {
+    background-color: black;
+    margin-bottom: 32px;
+    padding: 16px;
+}
